@@ -18,7 +18,7 @@ A comprehensive MERN stack blog application with secure user authentication, CRU
 
 ## Tech Stack
 
-- **Frontend Library**: React
+- **Frontend Library**: React, TailwindCSS
 
 - **Backend Framework**: Express.js
 
